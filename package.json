@@ -33,7 +33,7 @@
     "@tryghost/helpers": "1.1.27",
     "@tryghost/kg-clean-basic-html": "1.0.2",
     "@tryghost/kg-parser-plugins": "1.0.2",
-    "@tryghost/mobiledoc-kit": "0.12.4-ghost.1",
+    "@tryghost/mobiledoc-kit": "https://github.com/sungkwangsong/mobiledoc-kit.git",
     "@tryghost/string": "0.1.9",
     "@tryghost/timezone-data": "0.2.24",
     "autoprefixer": "9.8.0",
